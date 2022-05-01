@@ -1,9 +1,4 @@
 /**
- * Christopher Dewey
- * April 16, 2022
- * SNHU CS 300
- * Module Seven
- * Project Two
  *
  *   ******************************************
  *   *   BinarySearchTree Class Definitions   *
