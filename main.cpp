@@ -1,9 +1,4 @@
 /**
- * Christopher Dewey
- * April 16, 2022
- * SNHU CS 300
- * Module Seven
- * Project Two
  *
  *      ******************
  *      *  Main Program  *
@@ -32,7 +27,7 @@ static void loadCourseData(const string& path);
 static string selectCourse();
 static string selectFilePath();
 static inline string format(string str);
-const string PATH = R"(C:\Users\chris\Desktop\ProjectTwo\ABCUCatalog.txt)";
+const string PATH = "ABCUCatalog.txt";
 BinarySearchTree BST{};
 
 
